@@ -11,4 +11,4 @@ RUN chmod 755 /etc/service/php5/run
 
 EXPOSE 9000
 
-CMD /sbin/my_init --enable-insecure-key
+CMD /sbin/my_init
